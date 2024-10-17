@@ -1,1 +1,1 @@
-franklin
+My name is Franklin Ndubuisi. This lab is supposed to implement a worker-boss algorithm that finds all the prime number soecified by the user . In the sense that a boss creates workers which through the fork() process. The boss creates and shares the worker based on the users desire and also specifies the number the user wants the prime to be sought to. i completed this program using ubuntu. Follow all the instructions from the code and you will be good to go
